@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/toolboxes/!svn/ver/1074/ConeAdaptationToolbox/trunk/checkerboardStimuli
+END
+getCheckerboardRadonjic2011Data.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/toolboxes/!svn/ver/1073/ConeAdaptationToolbox/trunk/checkerboardStimuli/getCheckerboardRadonjic2011Data.m
+END
+getOSRespCheckerboard.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/toolboxes/!svn/ver/1061/ConeAdaptationToolbox/trunk/checkerboardStimuli/getOSRespCheckerboard.m
+END
+getRespNoPlots.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/toolboxes/!svn/ver/1073/ConeAdaptationToolbox/trunk/checkerboardStimuli/getRespNoPlots.m
+END
+compareIrradianceOutput.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/toolboxes/!svn/ver/1071/ConeAdaptationToolbox/trunk/checkerboardStimuli/compareIrradianceOutput.m
+END
+sceneCheckerboard.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/toolboxes/!svn/ver/1050/ConeAdaptationToolbox/trunk/checkerboardStimuli/sceneCheckerboard.m
+END
+lightnessData.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/toolboxes/!svn/ver/1074/ConeAdaptationToolbox/trunk/checkerboardStimuli/lightnessData.m
+END
+s_sceneCheckerboardTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/toolboxes/!svn/ver/1073/ConeAdaptationToolbox/trunk/checkerboardStimuli/s_sceneCheckerboardTest.m
+END
+testLuminanceVsOSResp.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/toolboxes/!svn/ver/1074/ConeAdaptationToolbox/trunk/checkerboardStimuli/testLuminanceVsOSResp.m
+END
+checkerboardStimulus.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/toolboxes/!svn/ver/1073/ConeAdaptationToolbox/trunk/checkerboardStimuli/checkerboardStimulus.m
+END
+compareOSResp.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/toolboxes/!svn/ver/1071/ConeAdaptationToolbox/trunk/checkerboardStimuli/compareOSResp.m
+END
